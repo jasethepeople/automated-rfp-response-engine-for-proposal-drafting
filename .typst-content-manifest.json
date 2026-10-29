@@ -1,0 +1,11 @@
+{
+  "task_kind": "new-document",
+  "output": "pdf",
+  "signals": [],
+  "hard_constraints": ["exactly 10 pages", "professionally formatted proposal response", "no unsupported company, project, team, certification, pricing, or RFP-specific claims"],
+  "content_features": {
+    "code_blocks": 0,
+    "defined_terms": 4,
+    "portrait_images": 0
+  }
+}
